@@ -9,7 +9,6 @@ public class JavaHelloWorldApplication {
 
         System.out.println("Test....");
 
-
         SpringApplication.run(JavaHelloWorldApplication.class, args);
     }
 
